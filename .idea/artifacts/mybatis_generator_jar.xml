@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mybatis-generator:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/mybatis_generator_jar</output-path>
+    <root id="archive" name="mybatis-generator_jar.jar">
+      <element id="archive" name="mybatis-generator.jar">
+        <element id="module-output" name="mybatis-generator-core" />
+        <element id="directory" name="libs">
+          <element id="library" level="project" name="mysql-connector-java" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

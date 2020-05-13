@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: mysql-connector-java.jar
+Main-Class: org.mybatis.generator.api.ShellRunner
+

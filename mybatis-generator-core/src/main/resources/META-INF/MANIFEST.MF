@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: org.mybatis.generator.api.ShellRunner
+Import-Package: com.mysql.jdbc
+
